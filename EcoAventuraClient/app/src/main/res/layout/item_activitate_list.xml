@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:longClickable="false"
+    android:descendantFocusability="blocksDescendants"
+    >
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        android:id="@+id/textView4"
+        android:textColor="@color/colorSubtitle"
+        android:gravity="start"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="10dp"
+        android:layout_alignEnd="@+id/textView54"
+        android:lines="1"
+        android:ellipsize="end"/>
+
+    <TextView
+        android:layout_width="15dp"
+        android:layout_height="85dp"
+        android:text="New Text"
+        android:id="@+id/userName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerVertical="true"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="J"
+        android:fontFamily="sans-serif-thin"
+        android:textSize="50dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/colorSubtitle"
+        android:background="@drawable/circle_label"
+        android:id="@+id/textView41"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="5dp"
+        android:clickable="true"
+        />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        android:id="@+id/textView3"
+        android:textColor="@color/colorSubtitle"
+        android:gravity="start"
+        android:layout_below="@id/textView4"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_alignEnd="@+id/textView4"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:lines="1"
+        android:ellipsize="end"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="aaaaaaaaaaaaaaaaaaaaaaa"
+        android:id="@+id/textView2"
+        android:textColor="@color/colorTitle"
+        android:width="220dp"
+        android:layout_toStartOf="@id/textView54"
+        android:lines="1"
+        android:ellipsize="end"/>
+
+    <TextView
+        android:text="(90)"
+        android:textAlignment="viewEnd"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView54"
+        android:textColor="@color/colorSubtitle"
+        android:layout_marginEnd="5dp"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_toStartOf="@+id/userName"
+        android:lines="1"
+        android:ellipsize="end"/>
+
+</RelativeLayout>

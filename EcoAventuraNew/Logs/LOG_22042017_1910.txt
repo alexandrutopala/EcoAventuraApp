@@ -1,0 +1,87 @@
+Creating a connection...
+[EL Info]: 2017-04-22 19:07:42.473--ServerSession(1392210740)--EclipseLink, version: Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd
+[EL Info]: connection: 2017-04-22 19:07:42.66--ServerSession(1392210740)--file:/E:/Programare/NetBeansProjects/EcoAventuraNew/EcoAventuraNew/build/classes/_EcoAventuraPU_url=jdbc:mysql://localhost:3306/ecoaventuradb?zeroDateTimeBehavior=convertToNull_user=root login successful
+Start zipping to : E:\Programare\NetBeansProjects\EcoAventuraNew\EcoAventuraNew\arhiv\EcoAventuraServer_22042017_1907.zip
+Adding : 17_04_2017-005828.sql
+Adding : 17_04_2017-010535.sql
+Adding : 17_04_2017-010956.sql
+Adding : 17_04_2017-012024.sql
+Adding : 17_04_2017-165538.sql
+Adding : 18_04_2017-150548.sql
+Adding : 22_04_2017-190356.sql
+Adding : 22_04_2017-190643.sql
+Adding : tabara_iarna.sql
+Adding : tabara_vara.sql
+Adding : date17_04_2017-010956.sql
+Adding : date17_04_2017-012024.sql
+Adding : date17_04_2017-144349.sql
+Adding : date17_04_2017-151350.sql
+Adding : date17_04_2017-165538.sql
+Adding : date18_04_2017-150548.sql
+Adding : date18_04_2017-151749.sql
+Adding : date18_04_2017-151804.sql
+Adding : date22_04_2017-190356.sql
+Adding : date22_04_2017-190643.sql
+Adding : EcoAventuraDB.mwb
+Adding : EcoAventuraDB.mwb.bak
+Adding : script.sql
+Adding : user.txt
+Adding : EcoAventura.jar
+Adding : Ghidul Utilizatorului Standard.pdf
+Adding : AbsoluteLayout.jar
+Adding : commons-codec-1.10.jar
+Adding : commons-collections4-4.1.jar
+Adding : commons-logging-1.2.jar
+Adding : curvesapi-1.04.jar
+Adding : eclipselink.jar
+Adding : EcoAventuraLib.jar
+Adding : ibatis-2.3.0.677.jar
+Adding : javax.persistence_2.1.0.v201304241213.jar
+Adding : jcalendar-1.4.jar
+Adding : joda-time-2.9.7-javadoc.jar
+Adding : joda-time-2.9.7.jar
+Adding : jRegistryKey.jar
+Adding : junit-4.12.jar
+Adding : log4j-1.2.17.jar
+Adding : mysql-connector-java-5.1.23-bin.jar
+Adding : org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar
+Adding : poi-3.15.jar
+Adding : poi-examples-3.15.jar
+Adding : poi-excelant-3.15.jar
+Adding : poi-ooxml-3.15.jar
+Adding : poi-ooxml-schemas-3.15.jar
+Adding : poi-scratchpad-3.15.jar
+Adding : xmlbeans-2.6.0.jar
+Adding : indexOutOfBoundsException.txt
+Adding : LOG_09032017_1702.txt
+Adding : LOG_15042017_1542.txt
+Adding : LOG_17042017_1053.txt
+Adding : adaugaInformatii.srz
+Adding : culori.srz
+Adding : data_expirare.txt
+Adding : date.txt
+Adding : distribuieEchipe.srz
+Adding : distribuieProgram.srz
+Adding : formulas.srz
+Adding : id.srz
+Adding : lastSerieActivaFrame.srz
+Adding : posteazaProgram.srz
+Adding : serieActiva.srz
+Adding : serii.srz
+Adding : start.srz
+Adding : arrow.png
+Adding : close.png
+Adding : description.png
+Adding : eco.jpg
+Adding : exclamation-mark.png
+Adding : ico.png
+Adding : loading.gif-c200
+Adding : move.png
+Adding : question_mark.png
+Adding : clasament seria 2_20042017_2310.xlsx
+Adding : clasament seria 3_22042017_1845.xlsx
+Adding : xampp-win32-7.0.2-1-VC14-installer.exe
+Adding : xampp_path.txt
+Done
+
+

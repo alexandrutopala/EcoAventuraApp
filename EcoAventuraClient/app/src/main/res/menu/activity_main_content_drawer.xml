@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Acum!"
+            android:icon="@drawable/acum"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Activitatile mele"
+            android:icon="@drawable/activitatile_mele"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Toate activitatile"
+            android:icon="@drawable/toate_activitatile"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Activitati terminate"
+            android:icon="@drawable/activitati_complete"/>
+    </group>
+
+    <item android:title="Comunitate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Copii"
+                android:icon="@drawable/copii"
+                />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Echipe"
+                android:icon="@drawable/echipe"/>
+        </menu>
+    </item>
+
+    <item android:title="Aplicatie">
+        <menu>
+            <item
+                android:id="@+id/nav_setari"
+                android:title="Setari"
+                android:icon="@drawable/setari"/>
+
+            <item
+                android:id="@+id/nav_deconectare"
+                android:title="Deconecteaza-te"
+                android:icon="@drawable/deconectare"/>
+        </menu>
+    </item>
+
+
+</menu>

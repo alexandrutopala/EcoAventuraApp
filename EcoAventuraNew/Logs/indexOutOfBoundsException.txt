@@ -1,0 +1,129 @@
+Creating a connection...
+[EL Info]: 2017-04-17 10:49:40.977--ServerSession(608887519)--EclipseLink, version: Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd
+[EL Info]: connection: 2017-04-17 10:49:41.226--ServerSession(608887519)--file:/E:/Programare/NetBeansProjects/EcoAventuraNew/EcoAventuraNew/build/classes/_EcoAventuraPU_url=jdbc:mysql://localhost:3306/ecoaventuradb?zeroDateTimeBehavior=convertToNull_user=root login successful
+Serializare completa (SerieActivaFrame)
+Serializare completa (SerieActivaFrame)
+Serverul a pornit cu succes pe portul : 16969
+Serializare completa (SerieActivaFrame)
+17/04/2017-10:51 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-10:51 : 17/04/2017-10:51 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-10:51 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-10:51 : Clientul anim_01tocmai s-a logat.
+17/04/2017-10:51 : Clientul : anim_01 este acum conectat.
+17/04/2017-10:51 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+17/04/2017-10:51 : Clientul : anim_01 a cerut seria activa...
+17/04/2017-10:52 : Clientul : anim_01 tocmai a trimis noi informatii!
+17/04/2017-10:52 : Clientul : anim_01 tocmai a trimis noi informatii!
+17/04/2017-10:53 : Clientul : anim_01 tocmai a trimis noi informatii!
+17/04/2017-10:55 : Clientulanim_01 tocmai s-a deconectat
+17/04/2017-10:55 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-10:55 : 17/04/2017-10:55 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-10:55 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-10:55 : Clientul : anim_01 este acum conectat.
+17/04/2017-10:55 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+17/04/2017-10:55 : Clientul : anim_01 a cerut seria activa...
+17/04/2017-10:55 : Clientul : anim_01 tocmai s-a deconectat
+17/04/2017-10:59 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-10:59 : 17/04/2017-10:59 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-10:59 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-10:59 : Clientul : anim_01 este acum conectat.
+17/04/2017-10:59 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+17/04/2017-10:59 : Clientul : anim_01 a cerut seria activa...
+17/04/2017-10:59 : Clientul : anim_01 tocmai s-a deconectat
+17/04/2017-10:59 : Clientul/192.168.1.113 tocmai s-a deconectat
+17/04/2017-10:59 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-10:59 : 17/04/2017-10:59 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-10:59 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-10:59 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-10:59 : 17/04/2017-10:59 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-10:59 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-11:00 : Clientul/192.168.1.113 tocmai s-a deconectat
+17/04/2017-11:00 : Clientul/192.168.1.113 tocmai s-a deconectat
+17/04/2017-11:01 : Clientul : anim_01 este acum conectat.
+17/04/2017-11:01 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+17/04/2017-11:01 : Clientul : anim_01 a cerut seria activa...
+17/04/2017-11:02 : Clientul : anim_01 tocmai a trimis noi informatii!
+17/04/2017-11:02 : Clientul : anim_01 tocmai s-a deconectat
+17/04/2017-11:02 : Clientul anim_02tocmai s-a logat.
+17/04/2017-11:02 : Clientul : anim_02 este acum conectat.
+17/04/2017-11:02 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+17/04/2017-11:02 : Clientul : anim_02 a cerut seria activa...
+17/04/2017-11:05 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-11:05 : 17/04/2017-11:05 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-11:05 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-11:07 : Clientul : anim_02 este acum conectat.
+17/04/2017-11:07 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+17/04/2017-11:07 : Clientul : anim_02 a cerut seria activa...
+17/04/2017-11:10 : Clientulanim_02 tocmai s-a deconectat
+
+Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException: 1 >= 1
+	at java.util.Vector.elementAt(Vector.java:474)
+	at javax.swing.DefaultListModel.getElementAt(DefaultListModel.java:89)
+	at javax.swing.plaf.basic.BasicListUI.updateLayoutState(BasicListUI.java:1360)
+	at javax.swing.plaf.basic.BasicListUI.maybeUpdateLayoutState(BasicListUI.java:1311)
+	at javax.swing.plaf.basic.BasicListUI.getPreferredSize(BasicListUI.java:578)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1662)
+	at javax.swing.ScrollPaneLayout.layoutContainer(ScrollPaneLayout.java:791)
+	at java.awt.Container.layout(Container.java:1510)
+	at java.awt.Container.doLayout(Container.java:1499)
+	at java.awt.Container.validateTree(Container.java:1695)
+	at java.awt.Container.validate(Container.java:1630)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:711)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.RepaintManager.validateInvalidComponents(RepaintManager.java:708)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1731)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException: 1 >= 1
+	at java.util.Vector.elementAt(Vector.java:474)
+	at javax.swing.DefaultListModel.getElementAt(DefaultListModel.java:89)
+	at javax.swing.plaf.basic.BasicListUI.updateLayoutState(BasicListUI.java:1360)
+	at javax.swing.plaf.basic.BasicListUI.maybeUpdateLayoutState(BasicListUI.java:1311)
+	at javax.swing.plaf.basic.BasicListUI.getPreferredSize(BasicListUI.java:578)
+	at javax.swing.JComponent.getPreferredSize(JComponent.java:1662)
+	at javax.swing.ScrollPaneLayout.layoutContainer(ScrollPaneLayout.java:791)
+	at java.awt.Container.layout(Container.java:1510)
+	at java.awt.Container.doLayout(Container.java:1499)
+	at java.awt.Container.validateTree(Container.java:1695)
+	at java.awt.Container.validate(Container.java:1630)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:711)
+	at javax.swing.RepaintManager$3.run(RepaintManager.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.RepaintManager.validateInvalidComponents(RepaintManager.java:708)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1731)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+

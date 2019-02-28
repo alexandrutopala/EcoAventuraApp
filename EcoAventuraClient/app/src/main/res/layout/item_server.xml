@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Conexiune la server "
+        android:id="@+id/textView46"
+        android:textColor="@color/colorTitle"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:text=""
+        android:id="@+id/button14"
+        android:layout_marginTop="5dp"
+        android:layout_alignTop="@+id/textView46"
+        android:layout_toEndOf="@+id/textView46"
+        android:layout_marginStart="12dp"
+        android:background="@drawable/round_button"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:textColor="@color/colorSubtitle"
+        android:layout_marginLeft="14dp"
+        android:id="@+id/textView47"
+        android:layout_alignTop="@+id/button14"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/button14" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Adresa Server"
+        android:textColor="@color/colorSubtitle"
+        android:id="@+id/textView48"
+        android:layout_below="@+id/textView46"
+        android:layout_alignStart="@+id/textView46"
+        android:layout_marginTop="8dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText11"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/textView46"
+        android:layout_alignEnd="@+id/textView47"
+        android:layout_toEndOf="@+id/textView48"
+        android:textColor="@color/colorTitle"
+        android:singleLine="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Port Server"
+        android:textColor="@color/colorSubtitle"
+        android:id="@+id/textView49"
+        android:layout_marginTop="3dp"
+        android:layout_below="@+id/editText11"
+        android:layout_alignStart="@+id/textView48"
+        android:layout_toStartOf="@+id/editText11" />
+
+    <EditText
+        android:inputType="number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText12"
+        android:layout_marginLeft="0dp"
+        android:textColor="@color/colorTitle"
+        android:height="30dp"
+        android:layout_below="@+id/editText11"
+        android:layout_alignStart="@+id/editText11"
+        android:layout_alignEnd="@+id/editText11"
+        android:singleLine="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Modifica"
+        android:id="@+id/button15"
+        android:layout_below="@+id/editText12"
+        android:layout_alignEnd="@+id/editText12"
+        android:layout_marginBottom="20dp"
+        style="@style/Widget.AppCompat.Button" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CONECTARE"
+
+        android:id="@+id/button16"
+        android:layout_alignBottom="@+id/button15"
+        android:layout_alignStart="@+id/textView49"
+        android:layout_marginBottom="0dp"
+        style="@style/Widget.AppCompat.Button"
+        android:elevation="6dp" />
+
+</RelativeLayout>

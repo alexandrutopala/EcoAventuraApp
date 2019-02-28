@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#FFFFFF"
+    android:longClickable="false"
+    android:descendantFocusability="blocksDescendants"
+    android:clipChildren="true">
+
+    <TextView
+        android:layout_width="156dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:layout_marginStart="15dp"
+        android:id="@+id/textView16"
+        android:textColor="@color/colorTitle"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="12dp"
+        android:lines="1"
+        android:ellipsize="end"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Joaca!"
+        android:id="@+id/button7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="5dp"
+        android:lines="1"/>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorSubtitle"
+        android:layout_toEndOf="@+id/textView16"
+        android:layout_alignEnd="@id/button7"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="3dp"
+        android:layout_alignBottom="@+id/button7"
+        android:layout_marginBottom="3dp"
+        android:alpha="0">
+     </RelativeLayout>
+
+
+
+</RelativeLayout>

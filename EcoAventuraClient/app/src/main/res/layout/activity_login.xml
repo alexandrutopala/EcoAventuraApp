@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="gui.Login"
+    android:background="#FFFFFF"
+    android:id="@+id/loginLayout"
+    >
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:hint="@string/hint_username"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:lines="1"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/editText4"
+        android:layout_below="@id/editText3"
+
+        android:layout_marginTop="34dp"
+        android:layout_alignEnd="@id/editText3"
+        android:hint="@string/hint_parola"
+        android:layout_alignStart="@+id/editText3"
+        android:lines="1"/>
+
+
+
+    <!--
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorSubtitle"
+        android:id="@+id/loadingLayout"
+        android:alpha="0.4"
+        android:paddingBottom="-18dp"
+        android:layout_marginBottom ="-18dp"
+        android:layout_marginTop ="-18dp"
+        android:layout_marginLeft ="-18dp"
+        android:layout_marginRight ="-18dp">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/loader"
+            android:background="@android:color/transparent"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/gifImageView" />
+    </RelativeLayout> -->
+
+
+
+    <android.support.v7.widget.SwitchCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tine-ma minte"
+        android:id="@+id/switch1"
+        android:layout_marginTop="28dp"
+        android:layout_below="@+id/editText4"
+        android:checked="false"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_alignEnd="@+id/editText4" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Iesire"
+        android:id="@+id/button11"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/editText4"
+        android:background="@color/colorButton"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_marginBottom="16dp"/>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/conectare"
+        android:id="@+id/button2"
+        android:nestedScrollingEnabled="false"
+        android:background="@drawable/blue_botton_selector"
+        android:textColor="#FFFFFF"
+        android:layout_above="@+id/button3"
+        android:layout_marginBottom="20dp"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_alignEnd="@+id/button11" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/logare"
+        android:id="@+id/button3"
+        android:background="@drawable/orange_button_selector"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@+id/button11"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignEnd="@+id/button11" />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,266 @@
+Creating a connection...
+[EL Info]: 2017-04-15 08:39:18.159--ServerSession(1215304824)--EclipseLink, version: Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd
+[EL Info]: connection: 2017-04-15 08:39:18.407--ServerSession(1215304824)--file:/E:/Programare/NetBeansProjects/EcoAventuraNew/EcoAventuraNew/build/classes/_EcoAventuraPU_url=jdbc:mysql://localhost:3306/ecoaventuradb?zeroDateTimeBehavior=convertToNull_user=root login successful
+Serverul a pornit cu succes pe portul : 16969
+15/04/2017-08:39 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-08:39 : 15/04/2017-08:39 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-08:39 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-08:40 : Clientul : anim_01 este acum conectat.
+15/04/2017-08:40 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+15/04/2017-08:40 : Clientul : anim_01 a cerut seria activa...
+15/04/2017-08:40 : Clientul : anim_01 tocmai a trimis noi informatii!
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_03(dimineata) pentru echipa 1
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_03(dimineata) pentru echipa 3
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_03(dimineata) pentru echipa 4
+15/04/2017-08:41 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-08:41 : 15/04/2017-08:41 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-08:41 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-08:41 : Clientul : anim_01 este acum conectat.
+15/04/2017-08:41 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+15/04/2017-08:41 : Clientul : anim_01 a cerut seria activa...
+15/04/2017-08:41 : Clientul : anim_01 tocmai a trimis noi informatii!
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_05(amiaza) pentru echipa 1
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_05(amiaza) pentru echipa 3
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_05(amiaza) pentru echipa 2
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_05(amiaza) pentru echipa 5
+15/04/2017-08:41 : Clientul : anim_01 tocmai a trimis noi informatii!
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_02(amiaza) pentru echipa 1
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_02(amiaza) pentru echipa 3
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_02(amiaza) pentru echipa 4
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_02(amiaza) pentru echipa 2
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_02(amiaza) pentru echipa 5
+15/04/2017-08:44 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-08:44 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:03 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:03 : 15/04/2017-09:03 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:03 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:03 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:03 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+15/04/2017-09:03 : Clientul : anim_01 a cerut seria activa...
+15/04/2017-09:03 : Clientul : anim_01 tocmai a trimis noi informatii!
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_03(seara) pentru echipa 2
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_03(seara) pentru echipa 5
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+Utilizatorul anim_01 a trimis un duplicat al activitatii activ_05(seara) pentru echipa 4
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:04 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:05 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:05 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:05 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:05 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:05 : Clientul : anim_01 tocmai a trimis noi informatii!
+15/04/2017-09:18 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:18 : 15/04/2017-09:18 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:18 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:18 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:19 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:19 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:23 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:23 : 15/04/2017-09:23 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:23 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:23 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:24 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:25 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:25 : 15/04/2017-09:25 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:25 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:25 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:26 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:26 : 15/04/2017-09:26 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:26 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:26 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:29 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:29 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:31 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:31 : 15/04/2017-09:31 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:31 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:31 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:34 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:34 : 15/04/2017-09:34 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:34 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:34 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:34 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:39 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:41 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:41 : 15/04/2017-09:41 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:41 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:41 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:44 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:46 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:46 : 15/04/2017-09:46 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:46 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:46 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:47 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:47 : 15/04/2017-09:47 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:47 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:47 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:48 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:48 : 15/04/2017-09:48 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:48 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:48 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:48 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-09:48 : 15/04/2017-09:48 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-09:48 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-09:48 : Clientul : anim_01 este acum conectat.
+15/04/2017-09:49 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:49 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:49 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-09:49 : Clientulanim_01 tocmai s-a deconectat
+15/04/2017-10:09 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-10:09 : 15/04/2017-10:09 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-10:09 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-10:09 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:10 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-10:10 : 15/04/2017-10:10 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-10:10 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-10:10 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:11 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-10:11 : 15/04/2017-10:11 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-10:11 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-10:11 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:12 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-10:12 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-10:12 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-10:12 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-10:12 : 15/04/2017-10:12 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-10:12 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-10:12 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:17 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-10:19 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-10:19 : 15/04/2017-10:19 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-10:19 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-10:20 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:20 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+15/04/2017-10:20 : Clientul : anim_02 a cerut seria activa...
+15/04/2017-10:21 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-10:21 : 15/04/2017-10:21 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-10:21 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-10:21 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:21 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+15/04/2017-10:21 : Clientul : anim_02 a cerut seria activa...
+15/04/2017-10:22 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-10:23 : Clientul : anim_02 tocmai s-a deconectat
+15/04/2017-10:23 : Clientul : anim_02 este acum conectat.
+15/04/2017-10:23 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+15/04/2017-10:23 : Clientul : anim_02 a cerut seria activa...
+15/04/2017-10:23 : Clientul : anim_02 tocmai s-a deconectat
+Serverul a fost oprit cu succes
+Socket inchis
+15/04/2017-10:24 : Clientul/192.168.1.114 tocmai s-a deconectat
+Auto checker stopped
+Serverul a pornit cu succes pe portul : 16969
+15/04/2017-14:48 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-14:48 : 15/04/2017-14:48 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-14:48 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-14:48 : Clientul : anim_02 este acum conectat.
+15/04/2017-14:48 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+15/04/2017-14:48 : Clientul : anim_02 a cerut seria activa...
+15/04/2017-14:49 : Clientul : anim_02 tocmai a trimis noi informatii!
+15/04/2017-14:50 : Clientul : anim_02 tocmai a trimis noi informatii!
+15/04/2017-14:57 : Clientul : anim_02 tocmai a trimis noi informatii!
+15/04/2017-14:57 : Clientul : anim_02 tocmai a trimis noi informatii!
+Utilizatorul anim_02 a trimis un duplicat al activitatii activ_05(dimineata) pentru echipa 2
+Utilizatorul anim_02 a trimis un duplicat al activitatii activ_05(dimineata) pentru echipa 3
+Utilizatorul anim_02 a trimis un duplicat al activitatii activ_05(dimineata) pentru echipa 4
+Utilizatorul anim_02 a trimis un duplicat al activitatii activ_05(dimineata) pentru echipa 5
+Utilizatorul anim_02 a trimis un duplicat al activitatii activ_05(dimineata) pentru echipa 1
+15/04/2017-15:04 : Clientul : anim_02 tocmai a trimis noi informatii!
+15/04/2017-15:14 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-15:14 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-15:14 : 15/04/2017-15:14 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-15:14 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-15:14 : Clientul : anim_02 este acum conectat.
+15/04/2017-15:14 : Clientul : anim_02 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_02 : plan de activitati trimis!
+15/04/2017-15:18 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.114
+15/04/2017-15:18 : 15/04/2017-15:18 : /192.168.1.114 : Se stabileste o conexiune...
+15/04/2017-15:18 : /192.168.1.114 : Conexiune stabilita!
+15/04/2017-15:18 : Clientul : anim_03 este acum conectat.
+15/04/2017-15:18 : Clientul : anim_03 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_03 : plan de activitati trimis!
+15/04/2017-15:18 : Clientul : anim_03 a cerut seria activa...
+15/04/2017-15:23 : Clientulanim_02 tocmai s-a deconectat
+15/04/2017-15:31 : Clientul : anim_03 tocmai a trimis noi informatii!
+15/04/2017-15:36 : Clientul : anim_03 tocmai a trimis noi informatii!
+Serializare completa (SerieActivaFrame)
+Serverul a fost oprit cu succes
+Socket inchis
+15/04/2017-15:42 : Clientulanim_03 tocmai s-a deconectat
+Serializare completa (SerieActivaFrame)
+
+Apr 15, 2017 10:27:30 AM server.ServerThread checkForConnection
+SEVERE: null
+java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+	at java.io.ObjectOutputStream$BlockDataOutputStream.drain(ObjectOutputStream.java:1877)
+	at java.io.ObjectOutputStream$BlockDataOutputStream.setBlockDataMode(ObjectOutputStream.java:1786)
+	at java.io.ObjectOutputStream.writeNonProxyDesc(ObjectOutputStream.java:1286)
+	at java.io.ObjectOutputStream.writeClassDesc(ObjectOutputStream.java:1231)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1427)
+	at java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1178)
+	at java.io.ObjectOutputStream.writeFatalException(ObjectOutputStream.java:1577)
+	at java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:351)
+	at server.ServerThread.checkForConnection(ServerThread.java:362)
+	at server.ServerFrame$StatusThread.run(ServerFrame.java:745)
+
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at gui.ViewActivitateInternalFrame.jTree1SelectionChanged(ViewActivitateInternalFrame.java:678)
+	at gui.ViewActivitateInternalFrame.access$200(ViewActivitateInternalFrame.java:34)
+	at gui.ViewActivitateInternalFrame$2.valueChanged(ViewActivitateInternalFrame.java:207)
+	at javax.swing.JTree.fireValueChanged(JTree.java:2927)
+	at javax.swing.JTree$TreeSelectionRedirector.valueChanged(JTree.java:3391)
+	at javax.swing.tree.DefaultTreeSelectionModel.fireValueChanged(DefaultTreeSelectionModel.java:635)
+	at javax.swing.tree.DefaultTreeSelectionModel.notifyPathChange(DefaultTreeSelectionModel.java:1093)
+	at javax.swing.tree.DefaultTreeSelectionModel.removeSelectionPaths(DefaultTreeSelectionModel.java:502)
+	at javax.swing.JTree.removeDescendantSelectedPaths(JTree.java:3723)
+	at javax.swing.JTree.setExpandedState(JTree.java:3606)
+	at javax.swing.JTree.collapsePath(JTree.java:2237)
+	at javax.swing.plaf.basic.BasicTreeUI.toggleExpandState(BasicTreeUI.java:2297)
+	at javax.swing.plaf.basic.BasicTreeUI.handleExpandControlClick(BasicTreeUI.java:2273)
+	at javax.swing.plaf.basic.BasicTreeUI.checkForClickInExpandControl(BasicTreeUI.java:2231)
+	at javax.swing.plaf.basic.BasicTreeUI$Handler.handleSelection(BasicTreeUI.java:3600)
+	at javax.swing.plaf.basic.BasicTreeUI$Handler.mousePressed(BasicTreeUI.java:3548)
+	at java.awt.AWTEventMulticaster.mousePressed(AWTEventMulticaster.java:279)
+	at java.awt.Component.processMouseEvent(Component.java:6530)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6298)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4522)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+

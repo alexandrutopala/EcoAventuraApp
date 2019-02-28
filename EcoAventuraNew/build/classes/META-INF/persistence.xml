@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="EcoAventuraPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>db.ActivitateDB</class>
+    <class>db.ActivitateGeneralaDB</class>
+    <class>db.AnimatorDB</class>
+    <class>db.EchipaDB</class>
+    <class>db.JocDB</class>
+    <class>db.JocGeneralDB</class>
+    <class>db.MembruEchipaDB</class>
+    <class>db.SerieDB</class>
+    <class>db.UserDB</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/sample"/>
+      <property name="javax.persistence.jdbc.user" value="app"/>
+      <property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.ClientDriver"/>
+      <property name="javax.persistence.jdbc.password" value="app"/>
+      <property name="eclipselink.canonicalmodel.subpackage" value="eco"/>
+    </properties>
+  </persistence-unit>
+  <persistence-unit name="MagazinSE" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>Magazin.db.ProdusDB</class>
+    <class>Magazin.db.TranzactieDB</class>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/MagazinDB?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+      <property name="eclipselink.canonicalmodel.subpackage" value="mag"/>
+    </properties>
+  </persistence-unit>
+</persistence>

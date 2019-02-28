@@ -1,0 +1,20 @@
+Creating a connection...
+[EL Info]: 2017-04-17 10:49:40.977--ServerSession(608887519)--EclipseLink, version: Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd
+[EL Info]: connection: 2017-04-17 10:49:41.226--ServerSession(608887519)--file:/E:/Programare/NetBeansProjects/EcoAventuraNew/EcoAventuraNew/build/classes/_EcoAventuraPU_url=jdbc:mysql://localhost:3306/ecoaventuradb?zeroDateTimeBehavior=convertToNull_user=root login successful
+Serializare completa (SerieActivaFrame)
+Serializare completa (SerieActivaFrame)
+Serverul a pornit cu succes pe portul : 16969
+Serializare completa (SerieActivaFrame)
+17/04/2017-10:51 : Un nou dispozitiv s-a conectat! Adresa :/192.168.1.113
+17/04/2017-10:51 : 17/04/2017-10:51 : /192.168.1.113 : Se stabileste o conexiune...
+17/04/2017-10:51 : /192.168.1.113 : Conexiune stabilita!
+17/04/2017-10:51 : Clientul anim_01tocmai s-a logat.
+17/04/2017-10:51 : Clientul : anim_01 este acum conectat.
+17/04/2017-10:51 : Clientul : anim_01 a trimis o cerere pentru primirea planului de activitati actual...
+Clientul : anim_01 : plan de activitati trimis!
+17/04/2017-10:51 : Clientul : anim_01 a cerut seria activa...
+17/04/2017-10:52 : Clientul : anim_01 tocmai a trimis noi informatii!
+17/04/2017-10:52 : Clientul : anim_01 tocmai a trimis noi informatii!
+17/04/2017-10:53 : Clientul : anim_01 tocmai a trimis noi informatii!
+
+

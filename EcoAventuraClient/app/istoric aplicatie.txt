@@ -1,0 +1,32 @@
+v 3.0
+-adaptarea aplicatiei pentru Android 6.0+
+-rezolvarea bug urilor
+
+v 3.1
+-introducerea sistemului de securitate si inregistrarea aplicatiei intr-o baza de date online
+
+v 3.15 
+-setarea animatiei in timpul incarcarii activitatilor
+
+v 3.4 - 6
+-introducerea cheii de potrivire dintre Server si client: fiecare client va fi inregistrat in cadrul serverului prin codul de licentiere al aplicatiei server. in cazul conectarii clientului la alt server, toate datele vor fi sterse. (astfel se previn erori de securitate si de functionare cauzate de introducerea in sistem a unor date "straine";
+-rezolvarea setarii implicite de autoconectare la server
+
+v 3.6 : 14-Jun-2017
+- update-rea interfetei grafice
+- compilarea cu un nou tool-set;
+- rezolvare de bug-uri;
+- restrictii pentru instalarea aplicatiei pentru alte platforme in afara de cele dedicate
+
+v 3.7 : 08-Aug-2017
+- rezolvarea bug ului din cauza caruia punctajele jocurilor erau pierdute
+- adaugarea optiunii de setare arbitrara a cronometrului
+- rezolvarea bug-ului care stergea fisierul de inregistrare si delicentia aplicatia
+
+v 3.8 : 13-Aug-2017
+- adaugarea metodei de verificare a datelor unei activitati, dupa o perioada de inactivitate
+- rezolvarea completa a bug-ului de la cererea permisiunilor
+
+v 3.72 : 10-Aug-2017 
+- rezolvarea bug ului de trimitere pachet a penalizarilor in afara programului de activitati
+- tranzitii adaugate la trecerea in activitatea de cautare membru/ echipa

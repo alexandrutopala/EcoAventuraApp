@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Programare\\Android Projects\\SimpleClient_17_04\\SimpleClient\\showcaseviewlib\\build\\intermediates\\res\\merged\\debug\\drawable\\cling_button_bg.xml",
+        "source": "E:\\Programare\\Android Projects\\SimpleClient_17_04\\SimpleClient\\showcaseviewlib\\src\\main\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Programare\\Android Projects\\SimpleClient_17_04\\SimpleClient\\showcaseviewlib\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal.xml",
+        "source": "E:\\Programare\\Android Projects\\SimpleClient_17_04\\SimpleClient\\showcaseviewlib\\src\\main\\res\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "E:\\Programare\\Android Projects\\SimpleClient_17_04\\SimpleClient\\showcaseviewlib\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "E:\\Programare\\Android Projects\\SimpleClient_17_04\\SimpleClient\\showcaseviewlib\\src\\main\\res\\drawable\\button.xml"
+    }
+]

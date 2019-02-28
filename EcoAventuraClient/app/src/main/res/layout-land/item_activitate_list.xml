@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:longClickable="false"
+    android:layout_marginLeft="@dimen/activity_vertical_margin"
+    android:layout_marginRight="@dimen/activity_vertical_margin"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:layout_width="15dp"
+        android:layout_height="85dp"
+        android:text="New Text"
+        android:id="@+id/userName" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium Text"
+        android:id="@+id/textView3"
+        android:textColor="@color/colorSubtitle"
+        android:gravity="start"
+        android:layout_below="@+id/button4"
+        android:layout_alignStart="@+id/textView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium Text"
+        android:id="@+id/textView4"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/colorSubtitle"
+        android:gravity="start"
+        android:layout_alignBottom="@+id/userName"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="j"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="@color/colorSubtitle"
+        android:layout_marginTop="94dp"
+        android:background="@drawable/circle_label"
+        android:id="@+id/textView41"
+        android:layout_below="@+id/textView4"
+        android:layout_toEndOf="@+id/userName"
+        android:layout_marginStart="66dp" />
+
+    <Button
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="x"
+        android:id="@+id/button4"
+        android:textColor="@color/colorTitle"
+        android:background="@drawable/round_button"
+        android:layout_marginTop="28dp"
+        android:layout_below="@+id/textView4"
+        android:layout_toEndOf="@+id/textView41"
+        android:layout_marginStart="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/textView2"
+        android:textColor="@color/colorTitle"
+        android:gravity="start"
+        android:width="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

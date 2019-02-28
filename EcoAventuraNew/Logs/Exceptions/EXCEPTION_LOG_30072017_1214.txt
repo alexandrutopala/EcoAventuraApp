@@ -1,0 +1,14 @@
+Jul 30, 2017 12:14:22 PM server.ServerFrame$22 doAction
+SEVERE: null
+java.lang.Exception
+	at server.ServerFrame$22.doAction(ServerFrame.java:855)
+	at main.AsyncTask.doInBackground(AsyncTask.java:33)
+	at main.AsyncTask.doInBackground(AsyncTask.java:14)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+

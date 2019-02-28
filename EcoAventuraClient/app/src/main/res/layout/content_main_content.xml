@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="gui.MainContent"
+    tools:showIn="@layout/app_bar_main_content"
+    android:layout_below="@+id/list"
+    android:background="@color/colorBackground">
+
+    <view
+        class="com.connection.simpleclient.BackgroundContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listViewBackground">
+
+        <ListView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:longClickable="true"
+            android:layout_weight="1.14"
+            android:divider="@color/colorBackground"
+            android:dividerHeight="5dp"
+            android:id="@+id/list">
+        </ListView>
+
+        <ViewStub
+            android:id="@+id/empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout="@layout/empty_view" />
+
+    </view>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/loading"
+        android:id = "@+id/gif2"
+        android:layout_marginBottom="42dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
